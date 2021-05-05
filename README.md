@@ -8,6 +8,10 @@ To suggest changes to existing degrees, open a new issue or pull request.
 
 ## Available Majors
 
+### Seattle
+
+<hr>
+
 ### College of Engineering
 * Aeronautical and Astronautical Engineering
 * Bioengineering
