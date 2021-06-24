@@ -2,8 +2,6 @@
 
 This repository contains the courses served when degrees are requested in [Prereq Flow](https://github.com/andrew-1135/prereq-flow).
 
-To add a new degree or suggest changes to an existing degree, [open a new issue](https://github.com/awu43/prereq-flow-degrees/issues/new/choose).
-
 ## Available Majors
 
 ### Seattle
