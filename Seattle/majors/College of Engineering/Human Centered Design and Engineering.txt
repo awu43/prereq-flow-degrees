@@ -1,0 +1,34 @@
+MATH 124 — Calculus with Analytic Geometry I
+MATH 125 — Calculus with Analytic Geometry II
+MATH 126 — Calculus with Analytic Geometry III
+CHEM 142 — General Chemistry
+PHYS 121 — Mechanics
+MATH 120 — Precalculus
+CSE 142 — Computer Programming I
+CSE 160 — Data Programming
+STAT 220 — Statistical Reasoning
+STAT 221 — Statistical Concepts and Methods for the Social Sciences
+STAT 311 — Elements of Statistical Methods
+IND E 315 — Probability and Statistics for Engineers
+CHEM 152 — General Chemistry
+CHEM 162 — General Chemistry
+PHYS 114 — Mechanics
+PHYS 115 — Heat, Fluids and Electricity and Magnetism
+PHYS 116 — Waves, Optics, Atoms and Nuclei
+PHYS 122 — Electromagnetism
+PHYS 123 — Waves
+BIOL 118 — Survey of Physiology
+BIOL 180 — Introductory Biology
+BIOL 200 — Introductory Biology
+PSYCH 202 — Biopsychology
+HCDE 231 — Introduction to Communication in HCDE
+HCDE 300 — Foundations of Human Centered Design and Engineering
+HCDE 301 — Advanced Communication in HCDE
+HCDE 308 — Visual Communication in Human Centered Design and Engineering
+HCDE 310 — Interactive Systems Design and Technology
+HCDE 313 — Introduction to User Research
+HCDE 318 — Introduction to User-Centered Design
+HCDE 321 — Professional Portfolio
+HCDE 322 — Organizational Teamwork
+HCDE 492 — Capstone Planning
+HCDE 493 — Senior Capstone
