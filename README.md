@@ -26,8 +26,6 @@ This repository contains the courses served when degrees are requested in [Prere
 * Speech and Hearing Sciences
 * Statistics
 
-<br/>
-
 ### College of Engineering
 * Aeronautical and Astronautical Engineering
 * Bioengineering
@@ -49,8 +47,6 @@ This repository contains the courses served when degrees are requested in [Prere
     * Biomechanics
     * Mechatronics
     * Nanoscience and Molecular Engineering
-
-<br/>
 
 ### Information School
 * Informatics
