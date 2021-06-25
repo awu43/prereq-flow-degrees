@@ -1,0 +1,32 @@
+CHEM 142 — General Chemistry
+CHEM 152 — General Chemistry
+CHEM 162 — General Chemistry
+CHEM 312 — Inorganic Chemistry
+CHEM 237 — Organic Chemistry
+CHEM 238 — Organic Chemistry
+CHEM 239 — Organic Chemistry
+CHEM 241 — Organic Chemistry Laboratory
+CHEM 455 — Physical Chemistry
+CHEM 456 — Physical Chemistry
+CHEM 457 — Physical Chemistry
+CHEM 317 — Inorganic Chemistry Laboratory
+CHEM 321 — Quantitative Analysis
+CHEM 461 — Physical Chemistry Laboratory
+CHEM 242 — Organic Chemistry Laboratory
+CHEM 426 — Instrumental Analysis
+CHEM 428 — Biomolecular Analysis
+CHEM 462 — Techniques of Synthetic Organic Chemistry
+CHEM 463 — Spectroscopic Techniques for Structural Identification
+CHEM 464 — Computers in Data Acquisition and Analysis
+CHEM 466 — Energy Materials, Devices, and Systems
+BIOC 426 — Basic Techniques in Biochemistry
+MATH 307 — Introduction to Differential Equations
+AMATH 351 — Introduction to Differential Equations and Applications
+MATH 124 — Calculus with Analytic Geometry I
+MATH 125 — Calculus with Analytic Geometry II
+MATH 126 — Calculus with Analytic Geometry III
+MATH 308 — Matrix Algebra with Applications
+AMATH 352 — Applied Linear Algebra and Numerical Analysis
+PHYS 121 — Mechanics
+PHYS 122 — Electromagnetism
+PHYS 123 — Waves

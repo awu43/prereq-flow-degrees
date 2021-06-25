@@ -1,0 +1,21 @@
+PHYS 121 — Mechanics
+PHYS 122 — Electromagnetism
+PHYS 123 — Waves
+PHYS 224 — Thermal Physics
+PHYS 225 — Introduction to Quantum Mechanics
+PHYS 227 — Mathematical Physics I
+PHYS 294 — Introduction to Research: Frontiers of Physics
+PHYS 321 — Electromagnetism I
+PHYS 322 — Electromagnetism II
+PHYS 334 — Advanced Laboratory: Analog Electronics
+MATH 124 — Calculus with Analytic Geometry I
+MATH 125 — Calculus with Analytic Geometry II
+MATH 126 — Calculus with Analytic Geometry III
+MATH 307 — Introduction to Differential Equations
+AMATH 351 — Introduction to Differential Equations and Applications
+MATH 308 — Matrix Algebra with Applications
+AMATH 352 — Applied Linear Algebra and Numerical Analysis
+MATH 309 — Linear Analysis
+AMATH 353 — Partial Differential Equations and Waves
+MATH 324 — Advanced Multivariable Calculus I
+AMATH 401 — Vector Calculus and Complex Variables

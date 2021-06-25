@@ -8,6 +8,26 @@ This repository contains the courses served when degrees are requested in [Prere
 
 <hr>
 
+### College of Arts and Sciences
+
+#### Natural Sciences
+* Applied and Computational Mathematical Sciences
+* Applied Mathematics
+* Astronomy
+* Biochemistry
+* Biology (BS)
+* Chemistry (BS)
+* Computational Finance and Risk Management
+* Mathematics (BS)
+* Microbiology
+* Neuroscience
+* Physics
+* Psychology (BS)
+* Speech and Hearing Sciences
+* Statistics
+
+<br/>
+
 ### College of Engineering
 * Aeronautical and Astronautical Engineering
 * Bioengineering
@@ -29,3 +49,8 @@ This repository contains the courses served when degrees are requested in [Prere
     * Biomechanics
     * Mechatronics
     * Nanoscience and Molecular Engineering
+
+<br/>
+
+### Information School
+* Informatics

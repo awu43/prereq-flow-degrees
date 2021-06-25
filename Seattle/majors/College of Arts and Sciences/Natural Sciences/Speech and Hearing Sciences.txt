@@ -1,0 +1,23 @@
+BIOL 118 — Survey of Physiology
+BIOL 180 — Introductory Biology
+PHYS 107 — Physics Concepts for Non-Scientists
+PHYS 110 — Liberal Arts Physics
+CHEM 110 — Preparation for General Chemistry
+CHEM 220 — Principles of Chemistry II
+STAT 220 — Statistical Reasoning
+EDPSY 490 — Basic Educational Statistics
+LING 200 — Introduction to Linguistics
+LING 400 — Survey of Linguistic Method and Theory
+SPHSC 250 — Introduction to Speech and Hearing Sciences
+SPHSC 261 — The Nature of Sound
+SPHSC 302 — Phonetics: Theory and Transcription
+SPHSC 303 — Language Science
+SPHSC 304 — Speech and Language Acquisition
+SPHSC 305 — Developmental Communication and Swallowing Disorders
+SPHSC 306 — Acquired Communication and Swallowing Disorders
+SPHSC 320 — Anatomy and Physiology of Speech
+SPHSC 371 — Hearing Disorders
+SPHSC 405 — Clinical Decision Making in Speech-Language Pathology
+SPHSC 425 — Speech, Language, Hearing, and the Brain
+SPHSC 461 — Hearing Science
+SPHSC 481 — Management of Hearing Loss
