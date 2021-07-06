@@ -48,5 +48,15 @@ This repository contains the courses served when degrees are requested in [Prere
     * Mechatronics
     * Nanoscience and Molecular Engineering
 
+### College of the Environment
+* Aquatic and Fishery Sciences
+* Atmospheric Sciences
+* Bioresource Science and Engineering
+* Earth and Space Sciences
+* Environmental Science and Terrestrial Resource Management
+* Environmental Studies
+* Marine Biology
+* Oceanography (BS)
+
 ### Information School
 * Informatics

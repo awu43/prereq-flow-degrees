@@ -1,0 +1,15 @@
+MATH 124 — Calculus with Analytic Geometry I
+MATH 125 — Calculus with Analytic Geometry II
+MATH 126 — Calculus with Analytic Geometry III
+PHYS 121 — Mechanics
+PHYS 122 — Electromagnetism
+PHYS 123 — Waves
+STAT 390 — Statistical Methods in Engineering and Science
+Q SCI 381 — Introduction to Probability and Statistics
+ATM S 220 — Exploring the Atmospheric Sciences
+ATM S 301 — Introduction to Atmospheric Sciences
+ATM S 321 — The Science of Climate
+ATM S 340 — Introduction to Thermodynamics and Cloud Processes
+ATM S 341 — Atmospheric Radiative Transfer
+ATM S 370 — Atmospheric Structure and Analysis
+ATM S 431 — Boundary-Layer Meteorology

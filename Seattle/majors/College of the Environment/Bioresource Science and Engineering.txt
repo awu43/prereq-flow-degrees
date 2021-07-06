@@ -1,0 +1,35 @@
+HCDE 231 — Introduction to Communication in HCDE
+MATH 125 — Calculus with Analytic Geometry II
+MATH 126 — Calculus with Analytic Geometry III
+MATH 307 — Introduction to Differential Equations
+AMATH 351 — Introduction to Differential Equations and Applications
+MATH 308 — Matrix Algebra with Applications
+AMATH 352 — Applied Linear Algebra and Numerical Analysis
+Q SCI 381 — Introduction to Probability and Statistics
+IND E 315 — Probability and Statistics for Engineers
+STAT 390 — Statistical Methods in Engineering and Science
+CHEM 152 — General Chemistry
+CHEM 162 — General Chemistry
+CHEM 237 — Organic Chemistry
+CHEM 238 — Organic Chemistry
+PHYS 121 — Mechanics
+PHYS 122 — Electromagnetism
+PHYS 123 — Waves
+A A 260 — Thermodynamics
+ECON 200 — Introduction to Microeconomics
+BSE 150 — Bioresource Science and Engineering Seminar
+BSE 201 — Introduction to Pulp, Paper, and Bioproducts
+BSE 202 — Pulp and Paper Lab and Field Studies
+BSE 248 — Paper Properties
+BSE 391 — Engineering Principles of Biorefineries
+BSE 392 — Bioresource Transport Phenomena
+BSE 406 — Natural Products Chemistry
+BSE 420 — Bioresource Engineering I
+BSE 421 — Bioresource Engineering II
+BSE 422 — Bioresource Engineering III
+BSE 426 — Bioresource Laboratory
+BSE 430 — Papermaking Processes
+BSE 436 — Pulp and Paper Laboratory II
+BSE 480 — Bioresource Design I
+BSE 481 — Bioresource Design II
+BSE 497 — Pulp and Paper Internship
