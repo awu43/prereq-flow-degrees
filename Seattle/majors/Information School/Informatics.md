@@ -1,3 +1,5 @@
+# Informatics
+
 [INFO 200](<https://myplan.uw.edu/course/#/courses/INFO 200>) - Intellectual Foundations of Informatics
 
 [CSE 142](<https://myplan.uw.edu/course/#/courses/CSE 142>) - Computer Programming I

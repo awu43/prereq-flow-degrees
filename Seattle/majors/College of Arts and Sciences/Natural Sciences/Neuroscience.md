@@ -1,3 +1,5 @@
+# Neuroscience
+
 [CHEM 142](<https://myplan.uw.edu/course/#/courses/CHEM 142>) - General Chemistry
 
 [CHEM 152](<https://myplan.uw.edu/course/#/courses/CHEM 152>) - General Chemistry

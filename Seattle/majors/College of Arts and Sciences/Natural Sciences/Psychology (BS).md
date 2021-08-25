@@ -1,3 +1,5 @@
+# Psychology (BS)
+
 [PSYCH 101](<https://myplan.uw.edu/course/#/courses/PSYCH 101>) - Introduction to Psychology
 
 [PSYCH 202](<https://myplan.uw.edu/course/#/courses/PSYCH 202>) - Biopsychology

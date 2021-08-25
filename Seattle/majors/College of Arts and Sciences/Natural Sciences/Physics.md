@@ -1,3 +1,5 @@
+# Physics
+
 [PHYS 121](<https://myplan.uw.edu/course/#/courses/PHYS 121>) - Mechanics
 
 [PHYS 122](<https://myplan.uw.edu/course/#/courses/PHYS 122>) - Electromagnetism

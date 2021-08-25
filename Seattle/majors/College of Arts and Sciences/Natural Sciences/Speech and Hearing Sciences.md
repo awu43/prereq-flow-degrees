@@ -1,3 +1,5 @@
+# Speech and Hearing Sciences
+
 [BIOL 118](<https://myplan.uw.edu/course/#/courses/BIOL 118>) - Survey of Physiology
 
 [BIOL 180](<https://myplan.uw.edu/course/#/courses/BIOL 180>) - Introductory Biology

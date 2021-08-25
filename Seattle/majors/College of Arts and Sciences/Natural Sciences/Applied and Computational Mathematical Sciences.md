@@ -1,3 +1,5 @@
+# Applied and Computational Mathematical Sciences
+
 [CSE 142](<https://myplan.uw.edu/course/#/courses/CSE 142>) - Computer Programming I
 
 [CSE 143](<https://myplan.uw.edu/course/#/courses/CSE 143>) - Computer Programming II

@@ -1,3 +1,5 @@
+# Environmental Studies
+
 [ENVIR 100](<https://myplan.uw.edu/course/#/courses/ENVIR 100>) - Introduction to Environmental Studies
 
 [ENVIR 200](<https://myplan.uw.edu/course/#/courses/ENVIR 200>) - Communication for Environmental Studies

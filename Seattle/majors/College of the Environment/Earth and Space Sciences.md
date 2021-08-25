@@ -1,3 +1,5 @@
+# Earth and Space Sciences
+
 [MATH 124](<https://myplan.uw.edu/course/#/courses/MATH 124>) - Calculus with Analytic Geometry I
 
 [MATH 125](<https://myplan.uw.edu/course/#/courses/MATH 125>) - Calculus with Analytic Geometry II

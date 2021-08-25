@@ -1,3 +1,5 @@
+# Marine Biology
+
 [BIOL 180](<https://myplan.uw.edu/course/#/courses/BIOL 180>) - Introductory Biology
 
 [BIOL 200](<https://myplan.uw.edu/course/#/courses/BIOL 200>) - Introductory Biology
