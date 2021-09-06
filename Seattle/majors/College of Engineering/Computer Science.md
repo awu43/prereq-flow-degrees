@@ -16,7 +16,7 @@
 
 [CSE 143](<https://myplan.uw.edu/course/#/courses/CSE 143>) - Computer Programming II
 
-[MATH 308](<https://myplan.uw.edu/course/#/courses/MATH 308>) - Matrix Algebra with Applications
+[MATH 208](<https://myplan.uw.edu/course/#/courses/MATH 208>) - Matrix Algebra with Applications
 
 [MATH 318](<https://myplan.uw.edu/course/#/courses/MATH 318>) - Advanced Linear Algebra Tools and Applications
 

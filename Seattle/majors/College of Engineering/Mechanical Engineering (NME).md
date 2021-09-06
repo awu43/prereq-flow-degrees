@@ -18,9 +18,9 @@
 
 [CEE 220](<https://myplan.uw.edu/course/#/courses/CEE 220>) - Introduction to Mechanics of Materials
 
-[MATH 307](<https://myplan.uw.edu/course/#/courses/MATH 307>) - Introduction to Differential Equations
+[MATH 207](<https://myplan.uw.edu/course/#/courses/MATH 207>) - Introduction to Differential Equations
 
-[MATH 308](<https://myplan.uw.edu/course/#/courses/MATH 308>) - Matrix Algebra with Applications
+[MATH 208](<https://myplan.uw.edu/course/#/courses/MATH 208>) - Matrix Algebra with Applications
 
 [PHYS 123](<https://myplan.uw.edu/course/#/courses/PHYS 123>) - Waves
 
@@ -30,11 +30,11 @@
 
 [AMATH 352](<https://myplan.uw.edu/course/#/courses/AMATH 352>) - Applied Linear Algebra and Numerical Analysis
 
-[MATH 309](<https://myplan.uw.edu/course/#/courses/MATH 309>) - Linear Analysis
+[MATH 209](<https://myplan.uw.edu/course/#/courses/MATH 209>) - Linear Analysis
 
 [AMATH 353](<https://myplan.uw.edu/course/#/courses/AMATH 353>) - Partial Differential Equations and Waves
 
-[MATH 324](<https://myplan.uw.edu/course/#/courses/MATH 324>) - Advanced Multivariable Calculus I
+[MATH 224](<https://myplan.uw.edu/course/#/courses/MATH 224>) - Advanced Multivariable Calculus
 
 [AMATH 301](<https://myplan.uw.edu/course/#/courses/AMATH 301>) - Beginning Scientific Computing
 

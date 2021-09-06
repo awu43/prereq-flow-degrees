@@ -14,7 +14,7 @@
 
 [CHEM 162](<https://myplan.uw.edu/course/#/courses/CHEM 162>) - General Chemistry
 
-[MATH 307](<https://myplan.uw.edu/course/#/courses/MATH 307>) - Introduction to Differential Equations
+[MATH 207](<https://myplan.uw.edu/course/#/courses/MATH 207>) - Introduction to Differential Equations
 
 [PHYS 122](<https://myplan.uw.edu/course/#/courses/PHYS 122>) - Electromagnetism
 
@@ -32,7 +32,7 @@
 
 [CSE 142](<https://myplan.uw.edu/course/#/courses/CSE 142>) - Computer Programming I
 
-[MATH 308](<https://myplan.uw.edu/course/#/courses/MATH 308>) - Matrix Algebra with Applications
+[MATH 208](<https://myplan.uw.edu/course/#/courses/MATH 208>) - Matrix Algebra with Applications
 
 [NME 220](<https://myplan.uw.edu/course/#/courses/NME 220>) - Introduction to Molecular and Nanoscale Principles
 
@@ -40,7 +40,7 @@
 
 [HCDE 231](<https://myplan.uw.edu/course/#/courses/HCDE 231>) - Introduction to Communication in HCDE
 
-[MATH 309](<https://myplan.uw.edu/course/#/courses/MATH 309>) - Linear Analysis
+[MATH 209](<https://myplan.uw.edu/course/#/courses/MATH 209>) - Linear Analysis
 
 [STAT 390](<https://myplan.uw.edu/course/#/courses/STAT 390>) - Statistical Methods in Engineering and Science
 

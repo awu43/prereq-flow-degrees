@@ -16,7 +16,7 @@
 
 [ENGR 231](<https://myplan.uw.edu/course/#/courses/ENGR 231>) - Introduction to Technical Communication
 
-[MATH 308](<https://myplan.uw.edu/course/#/courses/MATH 308>) - Matrix Algebra with Applications
+[MATH 208](<https://myplan.uw.edu/course/#/courses/MATH 208>) - Matrix Algebra with Applications
 
 [MATH 318](<https://myplan.uw.edu/course/#/courses/MATH 318>) - Advanced Linear Algebra Tools and Applications
 
@@ -26,9 +26,9 @@
 
 [STAT 394](<https://myplan.uw.edu/course/#/courses/STAT 394>) - Probability I
 
-[MATH 307](<https://myplan.uw.edu/course/#/courses/MATH 307>) - Introduction to Differential Equations
+[MATH 207](<https://myplan.uw.edu/course/#/courses/MATH 207>) - Introduction to Differential Equations
 
-[MATH 309](<https://myplan.uw.edu/course/#/courses/MATH 309>) - Linear Analysis
+[MATH 209](<https://myplan.uw.edu/course/#/courses/MATH 209>) - Linear Analysis
 
 [AMATH 351](<https://myplan.uw.edu/course/#/courses/AMATH 351>) - Introduction to Differential Equations and Applications
 

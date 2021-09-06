@@ -8,11 +8,11 @@
 
 [MATH 300](<https://myplan.uw.edu/course/#/courses/MATH 300>) - Introduction to Mathematical Reasoning
 
-[MATH 307](<https://myplan.uw.edu/course/#/courses/MATH 307>) - Introduction to Differential Equations
+[MATH 207](<https://myplan.uw.edu/course/#/courses/MATH 207>) - Introduction to Differential Equations
 
-[MATH 308](<https://myplan.uw.edu/course/#/courses/MATH 308>) - Matrix Algebra with Applications
+[MATH 208](<https://myplan.uw.edu/course/#/courses/MATH 208>) - Matrix Algebra with Applications
 
-[MATH 324](<https://myplan.uw.edu/course/#/courses/MATH 324>) - Advanced Multivariable Calculus I
+[MATH 224](<https://myplan.uw.edu/course/#/courses/MATH 224>) - Advanced Multivariable Calculus
 
 [MATH 327](<https://myplan.uw.edu/course/#/courses/MATH 327>) - Introductory Real Analysis I
 

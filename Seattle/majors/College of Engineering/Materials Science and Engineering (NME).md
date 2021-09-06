@@ -18,7 +18,7 @@
 
 [CSE 142](<https://myplan.uw.edu/course/#/courses/CSE 142>) - Computer Programming I
 
-[MATH 307](<https://myplan.uw.edu/course/#/courses/MATH 307>) - Introduction to Differential Equations
+[MATH 207](<https://myplan.uw.edu/course/#/courses/MATH 207>) - Introduction to Differential Equations
 
 [MSE 170](<https://myplan.uw.edu/course/#/courses/MSE 170>) - Fundamentals of Materials Science
 
@@ -28,7 +28,7 @@
 
 [HCDE 231](<https://myplan.uw.edu/course/#/courses/HCDE 231>) - Introduction to Communication in HCDE
 
-[MATH 308](<https://myplan.uw.edu/course/#/courses/MATH 308>) - Matrix Algebra with Applications
+[MATH 208](<https://myplan.uw.edu/course/#/courses/MATH 208>) - Matrix Algebra with Applications
 
 [PHYS 123](<https://myplan.uw.edu/course/#/courses/PHYS 123>) - Waves
 
@@ -38,9 +38,9 @@
 
 [ENGR 231](<https://myplan.uw.edu/course/#/courses/ENGR 231>) - Introduction to Technical Communication
 
-[MATH 309](<https://myplan.uw.edu/course/#/courses/MATH 309>) - Linear Analysis
+[MATH 209](<https://myplan.uw.edu/course/#/courses/MATH 209>) - Linear Analysis
 
-[MATH 324](<https://myplan.uw.edu/course/#/courses/MATH 324>) - Advanced Multivariable Calculus I
+[MATH 224](<https://myplan.uw.edu/course/#/courses/MATH 224>) - Advanced Multivariable Calculus
 
 [IND E 315](<https://myplan.uw.edu/course/#/courses/IND E 315>) - Probability and Statistics for Engineers
 

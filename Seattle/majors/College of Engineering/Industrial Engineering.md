@@ -28,9 +28,9 @@
 
 [M E 230](<https://myplan.uw.edu/course/#/courses/M E 230>) - Kinematics and Dynamics
 
-[MATH 307](<https://myplan.uw.edu/course/#/courses/MATH 307>) - Introduction to Differential Equations
+[MATH 207](<https://myplan.uw.edu/course/#/courses/MATH 207>) - Introduction to Differential Equations
 
-[MATH 308](<https://myplan.uw.edu/course/#/courses/MATH 308>) - Matrix Algebra with Applications
+[MATH 208](<https://myplan.uw.edu/course/#/courses/MATH 208>) - Matrix Algebra with Applications
 
 [ENGR 231](<https://myplan.uw.edu/course/#/courses/ENGR 231>) - Introduction to Technical Communication
 

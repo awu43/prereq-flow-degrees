@@ -14,11 +14,11 @@
 
 [A A 210](<https://myplan.uw.edu/course/#/courses/A A 210>) - Engineering Statics
 
-[MATH 307](<https://myplan.uw.edu/course/#/courses/MATH 307>) - Introduction to Differential Equations
+[MATH 207](<https://myplan.uw.edu/course/#/courses/MATH 207>) - Introduction to Differential Equations
 
-[MATH 308](<https://myplan.uw.edu/course/#/courses/MATH 308>) - Matrix Algebra with Applications
+[MATH 208](<https://myplan.uw.edu/course/#/courses/MATH 208>) - Matrix Algebra with Applications
 
-[MATH 324](<https://myplan.uw.edu/course/#/courses/MATH 324>) - Advanced Multivariable Calculus I
+[MATH 224](<https://myplan.uw.edu/course/#/courses/MATH 224>) - Advanced Multivariable Calculus
 
 [PHYS 123](<https://myplan.uw.edu/course/#/courses/PHYS 123>) - Waves
 

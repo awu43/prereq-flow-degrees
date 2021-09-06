@@ -10,9 +10,9 @@
 
 [MATH 126](<https://myplan.uw.edu/course/#/courses/MATH 126>) - Calculus with Analytic Geometry III
 
-[MATH 307](<https://myplan.uw.edu/course/#/courses/MATH 307>) - Introduction to Differential Equations
+[MATH 207](<https://myplan.uw.edu/course/#/courses/MATH 207>) - Introduction to Differential Equations
 
-[MATH 308](<https://myplan.uw.edu/course/#/courses/MATH 308>) - Matrix Algebra with Applications
+[MATH 208](<https://myplan.uw.edu/course/#/courses/MATH 208>) - Matrix Algebra with Applications
 
 [AMATH 351](<https://myplan.uw.edu/course/#/courses/AMATH 351>) - Introduction to Differential Equations and Applications
 

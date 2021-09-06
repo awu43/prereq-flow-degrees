@@ -18,13 +18,13 @@
 
 [CSE 142](<https://myplan.uw.edu/course/#/courses/CSE 142>) - Computer Programming I
 
-[MATH 308](<https://myplan.uw.edu/course/#/courses/MATH 308>) - Matrix Algebra with Applications
+[MATH 208](<https://myplan.uw.edu/course/#/courses/MATH 208>) - Matrix Algebra with Applications
 
 [CEE 220](<https://myplan.uw.edu/course/#/courses/CEE 220>) - Introduction to Mechanics of Materials
 
 [M E 230](<https://myplan.uw.edu/course/#/courses/M E 230>) - Kinematics and Dynamics
 
-[MATH 307](<https://myplan.uw.edu/course/#/courses/MATH 307>) - Introduction to Differential Equations
+[MATH 207](<https://myplan.uw.edu/course/#/courses/MATH 207>) - Introduction to Differential Equations
 
 [CHEM 152](<https://myplan.uw.edu/course/#/courses/CHEM 152>) - General Chemistry
 

@@ -26,19 +26,19 @@
 
 [MATH 126](<https://myplan.uw.edu/course/#/courses/MATH 126>) - Calculus with Analytic Geometry III
 
-[MATH 307](<https://myplan.uw.edu/course/#/courses/MATH 307>) - Introduction to Differential Equations
+[MATH 207](<https://myplan.uw.edu/course/#/courses/MATH 207>) - Introduction to Differential Equations
 
 [AMATH 351](<https://myplan.uw.edu/course/#/courses/AMATH 351>) - Introduction to Differential Equations and Applications
 
-[MATH 308](<https://myplan.uw.edu/course/#/courses/MATH 308>) - Matrix Algebra with Applications
+[MATH 208](<https://myplan.uw.edu/course/#/courses/MATH 208>) - Matrix Algebra with Applications
 
 [AMATH 352](<https://myplan.uw.edu/course/#/courses/AMATH 352>) - Applied Linear Algebra and Numerical Analysis
 
-[MATH 309](<https://myplan.uw.edu/course/#/courses/MATH 309>) - Linear Analysis
+[MATH 209](<https://myplan.uw.edu/course/#/courses/MATH 209>) - Linear Analysis
 
 [AMATH 353](<https://myplan.uw.edu/course/#/courses/AMATH 353>) - Partial Differential Equations and Waves
 
-[MATH 324](<https://myplan.uw.edu/course/#/courses/MATH 324>) - Advanced Multivariable Calculus I
+[MATH 224](<https://myplan.uw.edu/course/#/courses/MATH 224>) - Advanced Multivariable Calculus
 
 [AMATH 401](<https://myplan.uw.edu/course/#/courses/AMATH 401>) - Vector Calculus and Complex Variables
 
